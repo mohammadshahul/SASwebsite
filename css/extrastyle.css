@@ -1,0 +1,14 @@
+.logo-img {
+    /* Set the size for the small logo */
+    height: 50px; /* Adjust as needed */
+    width: auto; /* Maintains aspect ratio */
+    margin-top: 8px;
+    margin-right: 5px; /* Adds space between the logo and other content */
+}
+
+.brand-container {
+    display: flex; /* Enables flexbox layout */
+    align-items: center; /* Vertically aligns the logo and text */
+    text-decoration: none; /* Removes underline from the link */
+}
+

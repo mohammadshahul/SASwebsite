@@ -1,0 +1,24 @@
+.bg-primary{
+    background: linear-gradient(to right , #cf0854 , #1b3142 , #4c7239  )!important;
+    /* background: linear-gradient(to right ,#00b09b , #96c93d  ) */
+    
+}
+
+.my-icon{
+    font-size: 80px!important;
+    color:#5C9E7A  ;
+    /* color: #00b09b */
+}
+
+.services-container{
+    border:.5px solid #5C9E7A ;
+    padding: 25px;
+    cursor: pointer;
+    transition: 200ms all ease-in-out;
+}
+.services-container:hover{
+    
+    background: black;
+    color:white;
+    border-radius: 20px;
+}
